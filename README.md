@@ -2,7 +2,7 @@
 A meeting page in desktop, phone and tab screen form
 
 <body>
-  <link rel="stylesheet" type="text/css" href="./Meet-Page/blob/main/Style.css">
+  <link rel="stylesheet" type="text/css" href="./Meet-Page/Style.css">
 <h1>Meet</h1>
   
 <h2>Group Chat for Everyone</h2>
