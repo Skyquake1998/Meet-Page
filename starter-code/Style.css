@@ -1,3 +1,17 @@
 body { 
   color: green; 
 }
+body	{ background: #FAFAFA; }
+p {
+	color: #87879D;
+}
+h1 { color: #28283D }
+
+p1 { color: #FAFAFA; 
+	background-color: #4D96A9 }
+
+p2 {color: #FAFAFA;
+    background-color: #855FB1; }	
+.title {
+	color: red;
+}    
