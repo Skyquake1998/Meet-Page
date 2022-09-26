@@ -2,6 +2,9 @@
 A meeting page in desktop, phone and tab screen form
 <head>
   <link rel="stylesheet" type="text/css" href="./Meet-Page/Style.css">
+  
+  <title>Hello World</title>
+  
 </head>
 <body>
   
