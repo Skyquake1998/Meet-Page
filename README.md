@@ -1,8 +1,10 @@
 # Meet-Page
 A meeting page in desktop, phone and tab screen form
-
-<body>
+<head>
   <link rel="stylesheet" type="text/css" href="./Meet-Page/Style.css">
+</head>
+<body>
+  
 <h1>Meet</h1>
   
 <h2>Group Chat for Everyone</h2>
